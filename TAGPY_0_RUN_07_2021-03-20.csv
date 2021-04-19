@@ -1,0 +1,8 @@
+Line Type,Candidate,Sequence,Channel,Hours,Minutes,Seconds,Decimal,Days,Date,Time
+Original Time,,1,M4,19,20,07,83800,7749,2021-03-20,19:20:07.83800
+Original Time,,2,M4,19,20,12,38900,7749,2021-03-20,19:20:12.38900
+Original Time,700,3,M4,19,20,15,83400,7749,2021-03-20,19:20:15.83400
+Original Time,121,4,M4,19,20,42,88700,7749,2021-03-20,19:20:42.88700
+Original Time,66,5,M4,19,20,54,13300,7749,2021-03-20,19:20:54.13300
+Time With A new Identification,444,6,M4,19,21,20,88100,7749,2021-03-20,19:21:20.88100
+Download INFO,Device Serial: 0,Device Run Number: 07,,,,,,,,
