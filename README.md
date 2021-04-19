@@ -36,7 +36,7 @@ Options:
 ```
 ### Downloading data
 - Run the script as described above, the prompt will let you know it is ready to recieve data
-- Initiate a PC Download on your device
+- Initiate a PC Download on your timing device
 - Wait for download to finish and the file to be exported  
 
 If you are downloading the same run number from mulitple timers, and your software serial numbers are not unique, make sure to move or rename the file before downloading from the second device or your file will be overwritten.
