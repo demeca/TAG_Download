@@ -7,6 +7,7 @@ To install the requirements run
 ```
 pip install -r requirements.txt
 ```
+## Usage
 Running the script with no arguments, as shown below, will output the available system COM ports
 ```
 python tagDownload.py
