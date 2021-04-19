@@ -1,4 +1,4 @@
-# TAG Run Downloader
+# TAG Timing Data Downloader
 This script is designed to recieve data via a serial connected TAG Minitimer. The data is then exported to a CSV. The goal is to be able to get a dump of the data from a device in the event of a timing computer crash, a missing time in the computer or data misalignment.
 
 ## Installation
